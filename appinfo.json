@@ -4,33 +4,44 @@
         ""
     ],
     "companyName": "robin.wohlersreichel@gmail.com",
-    "longName": "pebble_lemaymays",
+    "longName": "nice meme",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/brains_watch_background.png",
-                "name": "IMAGE_BACKGROUND_BRAINS",
+                "file": "images/doge.png",
+                "name": "MEME_DOGE",
                 "type": "png"
             },
             {
-                "file": "images/menu_icon_binary_watch.png",
-                "name": "IMAGE_MENU_ICON_BINARY_WATCH",
+                "file": "images/dealwithit.png",
+                "name": "MEME_DEAL",
                 "type": "png"
             },
             {
-                "file": "images/menu_icon_sector_watch.png",
-                "name": "IMAGE_MENU_ICON_SECTOR_WATCH",
+                "file": "images/cuteness.png",
+                "name": "MEME_CUTENESS",
                 "type": "png"
             },
             {
-                "file": "images/menu_icon_big_watch.png",
-                "name": "IMAGE_MENU_ICON_BIG_WATCH",
+                "file": "images/reasons.png",
+                "name": "MEME_REASONS",
+                "type": "png"
+            },
+            {
+                "file": "images/cage.png",
+                "name": "MEME_YOU_DONT_SAY",
+                "type": "png"
+            },
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "menu_image",
                 "type": "png"
             }
         ]
     },
-    "shortName": "pebble_lemaymays",
+    "shortName": "nice meme",
     "uuid": "6a6d9e3b-9a3a-4f76-8bfc-02cbe69a4f97",
     "versionCode": 1,
     "versionLabel": "1.0",
